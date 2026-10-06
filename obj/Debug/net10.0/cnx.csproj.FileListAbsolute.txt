@@ -1,0 +1,15 @@
+F:\TestCNX\bin\Debug\net10.0\cnx.exe
+F:\TestCNX\bin\Debug\net10.0\cnx.deps.json
+F:\TestCNX\bin\Debug\net10.0\cnx.runtimeconfig.json
+F:\TestCNX\bin\Debug\net10.0\cnx.dll
+F:\TestCNX\bin\Debug\net10.0\cnx.pdb
+F:\TestCNX\obj\Debug\net10.0\cnx.GeneratedMSBuildEditorConfig.editorconfig
+F:\TestCNX\obj\Debug\net10.0\cnx.AssemblyInfoInputs.cache
+F:\TestCNX\obj\Debug\net10.0\cnx.AssemblyInfo.cs
+F:\TestCNX\obj\Debug\net10.0\cnx.csproj.CoreCompileInputs.cache
+F:\TestCNX\obj\Debug\net10.0\cnx.dll
+F:\TestCNX\obj\Debug\net10.0\refint\cnx.dll
+F:\TestCNX\obj\Debug\net10.0\cnx.pdb
+F:\TestCNX\obj\Debug\net10.0\cnx.genruntimeconfig.cache
+F:\TestCNX\obj\Debug\net10.0\ref\cnx.dll
+F:\TestCNX\bin\Debug\net10.0\SachInventory.xml

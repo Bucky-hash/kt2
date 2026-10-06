@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachSinhVien>
+  <SinhVien>
+    <MaSV>SV001</MaSV>
+    <HoTen>Nguyen Van A</HoTen>
+    <NgaySinh>2003-05-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <Lop>DH21IT01</Lop>
+    <DiemTB>8.5</DiemTB>
+  </SinhVien>
+  <SinhVien>
+    <MaSV>SV002</MaSV>
+    <HoTen>Tran Thi B</HoTen>
+    <NgaySinh>2003-08-20</NgaySinh>
+    <GioiTinh>Nu</GioiTinh>
+    <Lop>DH21IT03</Lop>
+    <DiemTB>8.0</DiemTB>
+  </SinhVien>
+  <SinhVien>
+    <MaSV>SV003</MaSV>
+    <HoTen>Le Van C</HoTen>
+    <NgaySinh>2002-11-03</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <Lop>DH21IT02</Lop>
+    <DiemTB>6.4</DiemTB>
+  </SinhVien>
+  <SinhVien>
+    <MaSV>SV004</MaSV>
+    <HoTen>Pham Thi D</HoTen>
+    <NgaySinh>2003-01-15</NgaySinh>
+    <GioiTinh>Nu</GioiTinh>
+    <Lop>DH21IT02</Lop>
+    <DiemTB>9</DiemTB>
+  </SinhVien>
+</DanhSachSinhVien>

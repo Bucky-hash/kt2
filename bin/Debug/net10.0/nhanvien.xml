@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSach>
+  <NhanVien>
+    <MaNV>NV02</MaNV>
+    <HoTen>Tran Thi B</HoTen>
+    <ChucVu>Nhan vien</ChucVu>
+    <Luong>10000000</Luong>
+  </NhanVien>
+  <NhanVien>
+    <MaNV>NV03</MaNV>
+    <HoTen>Le Van C</HoTen>
+    <ChucVu>Nhan vien</ChucVu>
+    <Luong>9500000</Luong>
+  </NhanVien>
+</DanhSach>

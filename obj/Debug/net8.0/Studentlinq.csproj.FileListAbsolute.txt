@@ -1,0 +1,15 @@
+f:\TestCNX\bin\Debug\net8.0\students.xml
+f:\TestCNX\bin\Debug\net8.0\Studentlinq.exe
+f:\TestCNX\bin\Debug\net8.0\Studentlinq.deps.json
+f:\TestCNX\bin\Debug\net8.0\Studentlinq.runtimeconfig.json
+f:\TestCNX\bin\Debug\net8.0\Studentlinq.dll
+f:\TestCNX\bin\Debug\net8.0\Studentlinq.pdb
+f:\TestCNX\obj\Debug\net8.0\Studentlinq.GeneratedMSBuildEditorConfig.editorconfig
+f:\TestCNX\obj\Debug\net8.0\Studentlinq.AssemblyInfoInputs.cache
+f:\TestCNX\obj\Debug\net8.0\Studentlinq.AssemblyInfo.cs
+f:\TestCNX\obj\Debug\net8.0\Studentlinq.csproj.CoreCompileInputs.cache
+f:\TestCNX\obj\Debug\net8.0\Studentlinq.dll
+f:\TestCNX\obj\Debug\net8.0\refint\Studentlinq.dll
+f:\TestCNX\obj\Debug\net8.0\Studentlinq.pdb
+f:\TestCNX\obj\Debug\net8.0\Studentlinq.genruntimeconfig.cache
+f:\TestCNX\obj\Debug\net8.0\ref\Studentlinq.dll

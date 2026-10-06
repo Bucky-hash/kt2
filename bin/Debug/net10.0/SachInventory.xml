@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ThuVien>
+  <Sach Ma="S01" TheLoai="CongNghe">
+    <TieuDe>Lập trình C# nâng cao với .NET 8</TieuDe>
+    <SoLuongTon>35</SoLuongTon>
+  </Sach>
+  <Sach Ma="S03" TheLoai="CongNghe">
+    <TieuDe>Thiết kế cơ sở dữ liệu XML</TieuDe>
+    <SoLuongTon>25</SoLuongTon>
+  </Sach>
+</ThuVien>
